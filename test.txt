@@ -1,0 +1,10 @@
+This project aims to study an existing CNN deep neural network architecture for a computer vision task, such as object detection or image segmentation, on a set of images created by you.
+Your project task must consider at least three different classes. To validate this project, submit two "Jupyter" notebooks that trains and evaluates a model of the architecture you have chosen on your dataset, a report describing your project (PDF, Word, or Writer), and an archive containing your dataset and the weights of the best model.
+Annotations to your dataset must also be submitted. In your project report (maximum of 10 pages), you will present the architecture you have chosen, the hyperparameters you have chosen to train it, and the results of the experiments you have carried out to evaluate it.
+
+The results of the experiments carried out should cover, at least, the following points:
+- Quantitative results using an evaluation metric relevant to the chosen task.
+- Qualitative results (e.g., images of successful cases, common mistakes made by your model, etc.).
+
+Project submission: all project elements must be submitted on the Moodle course platform.
+Exceptionally, you may submit the archive containing your image set and the weights of your trained model on a file-sharing service (without expiration date), if and only if, the size of these elements exceeds the maximum file size accepted by the course platform.
